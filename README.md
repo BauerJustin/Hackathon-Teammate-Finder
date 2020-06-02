@@ -1,1 +1,1 @@
-# HackathonTeammateFinder
+# Hackathon-Teammate-Finder
