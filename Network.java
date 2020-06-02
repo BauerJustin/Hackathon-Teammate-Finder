@@ -17,7 +17,7 @@ public class Network {
 		createNetwork();
 		
 		int[] scores = {0,0,0,0,0,3,2,0,0,0,0,2,2,0,0,0,0,0,0,0};
-		PersonClass user = new PersonClass("Laura Jacobs", scores, true, 1);
+		PersonClass user = new PersonClass("John Smith", scores, true, 1);
 		
 		CompareClass userComparison = new CompareClass(user, hackerNetwork);
 		userComparison.compare();
